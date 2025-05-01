@@ -87,7 +87,7 @@ python voice_gui.py
 ### 3️⃣ Use Voice Commands
 
 Examples:
-- `"find red cube in section 1"` → Moves arm, scans barcode, picks up match
+- `"find red cube and place in section E"` → Moves arm, scans barcode, picks up match
 - `"go home"` → Returns to base position
 - `"pump on"` / `"valve"` → Controls suction nozzle (integrated into arm)
 
